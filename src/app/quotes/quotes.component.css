@@ -1,0 +1,11 @@
+.example-card {
+  margin: 8px;
+}
+
+.character-pic {
+  max-height: 200px;
+  width: auto;
+  display: block;
+  margin: auto;
+  margin-bottom: 16px;
+}
